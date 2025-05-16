@@ -92,7 +92,7 @@ def Calculator_Prompt(a: float, b: float, operation: str) -> str:
 
 print("Prompt 'Calculator' added.")
 
-# --------- Python Execution: STDIO
+# --------- Python Execution: STDIO/SSE
 
 if __name__ == "__main__":
     print("\n--- Starting FastMCP Server via __main__ ---")
